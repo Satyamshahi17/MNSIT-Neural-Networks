@@ -28,6 +28,8 @@ After training for 10 epochs:
 -  **Training Loss**: 0.0184
 -  **Validation Accuracy**: 97.38%
 -  **Validation Loss**: 0.1540
+-  **Test Accuracy**: 96.73%
+-  **Test Loss**: 0.1823
 
 ---
 
